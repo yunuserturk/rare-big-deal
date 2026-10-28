@@ -821,6 +821,7 @@ Free & open-source.
 | 🚀 | [TinyAdz](https://tinyadz.com/) | Ad network with no fluff, no fraud. Advertisers get real ROI, publishers earn legit revenue | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 | 🚀 | [Microlaunch](https://microlaunch.net/premium) | Launch. Reach 30k+ makers. Get more users & customers. 30-day launches → 30× more exposure. Your unfair visibility advantage. | **20% OFF** with code **BLACKFRIDAY2025** + Exclusive **2Y PRO PASS** for Serial Builders. | 2025-12-07
 | 🌐 | [BorderPrep](https://borderprep.com) | Arrive stress-free in any country | **50% OFF** product feature | 2025-12-01 |
+| 🚀 | [LandinTools](https://tools.landin.page/advertise?ref=rare-big-deal) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | **50% OFF** Featured listing for a full year with code **BF2026** ($49 → $24.50) | 2026-12-31 |
 
 
 ### Other
@@ -1061,7 +1062,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 💰 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | **50% off** with discount code **BLACK** | 2025-12-01 |
+| 💰 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/?ref=rare-big-deal) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | **50% OFF** with code **BLACK** ($49.99 → $24.99) | 2026-12-31 |
 | 💡 | [Superframeworks Idea Bank ](https://superframeworks.com/idea-bank) | 40+ SEO Validated Ideas | 100% OFF with Code BFCM25 | |
 | 📜 | [Social Commandments](https://socialcommandments.com) | A forever-unlock of the full database of platform “do’s & don’ts,” growth rules, and algorithm insights for X, TikTok, Instagram, and LinkedIn. | **30% off** Lifetime membership with code **BLACKFRIDAY** | 2025-12-12 |
 | 🥇 | [Product Hunt Workbook ](https://launchpedia.co/product-hunt-workbook/) | A Proven BluePrint to Rank On Top Of Product Hunt | **60% OFF** with code **BF60** | 2025-12-01 |
